@@ -1,0 +1,6 @@
+console.log(`abs : ${Math.abs(-1)}`)
+console.log(`abs : ${Math.abs([2])}`)
+console.log(`abs : ${Math.abs('')}`)
+console.log(`abs : ${Math.abs(null)}`)
+console.log(`abs : ${Math.abs({})}`)
+console.log(`abs : ${Math.abs(true)}`)

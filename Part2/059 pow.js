@@ -1,0 +1,8 @@
+console.log(Math.pow(7, 2))
+console.log(Math.pow(2, 10))
+console.log(Math.pow(8, 1 / 3))
+console.log(Math.pow(2, 0.5))
+console.log(Math.pow(7, -2))
+console.log(Math.pow(8, -1 / 3))
+console.log(Math.pow(-7, 2))
+console.log(Math.pow(-7, 1 / 2))
