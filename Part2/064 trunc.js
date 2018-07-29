@@ -1,0 +1,8 @@
+console.log(`Math.trunc(24.2) : ${Math.trunc(24.2)}`)
+console.log(`Math.trunc(42.8123123) : ${Math.trunc(42.8123123)}`)
+console.log(`Math.trunc(0.88) : ${Math.trunc(0.88)}`)
+console.log(`Math.trunc(-0.88) : ${Math.trunc(-0.88)}`)
+console.log(`Math.trunc('-1.123') : ${Math.trunc('-1.123')}`)
+console.log(`Math.trunc(NaN) : ${Math.trunc(NaN)}`)
+console.log(`Math.trunc('foo') : ${Math.trunc('foo')}`)
+console.log(`Math.trunc() : ${Math.trunc()}`)

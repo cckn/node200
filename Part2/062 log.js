@@ -1,0 +1,8 @@
+console.log(`Math.log(10) : ${Math.log(10)}`)
+console.log(`Math.log(1) : ${Math.log(1)}`)
+console.log(`Math.log10(10000) : ${Math.log10(10000)}`)
+console.log(`Math.log10(10) : ${Math.log10(10)}`)
+console.log(`Math.log2(1024) : ${Math.log2(1024)}`)
+console.log(`Math.log2(2) : ${Math.log2(2)}`)
+console.log(`Math.log1p(1) : ${Math.log1p(1)}`)
+console.log(`Math.log1p(0) : ${Math.log1p(0)}`)

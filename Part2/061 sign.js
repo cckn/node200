@@ -1,0 +1,7 @@
+console.log(Math.sign(3))
+console.log(Math.sign(-3))
+console.log(Math.sign('-3'))
+console.log(Math.sign(0))
+console.log(Math.sign(NaN))
+console.log(Math.sign('foo'))
+console.log(Math.sign())
